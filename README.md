@@ -3,6 +3,7 @@ Cookbooks made to be run on Chef
 
 # Usage
 To use these cookbooks you only need to do a few steps
+
 1. Add them to your *cookbooks/* folder on your *chef-repo/*
 
 2. Upload them to your Chef Server (In case you are working with Nodes):
