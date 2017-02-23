@@ -10,9 +10,11 @@ To use these cookbooks you only need to do a few steps
     > knife cookbook upload name_of_cookbook
 
 3. Run them:
+
     On your node
     > chef-client
 
     Or
+    
     On your local machine:
     > chef-client --local -o recipe['name_of_cookbook']
