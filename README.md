@@ -2,7 +2,7 @@
 Cookbooks made to be run on Chef
 
 # Usage
-To use these cookbooks you only need to do a few steps
+To use these cookbooks all you need to do is follow the steps bellow:
 
 1. Add them to your *cookbooks/* folder on your *chef-repo/*
 
